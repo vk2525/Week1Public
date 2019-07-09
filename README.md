@@ -6,8 +6,8 @@ We will be working with the National Health and Nutrition Examination Survey (NH
 https://drive.google.com/open?id=1WTl0AkNFfJD1dejiDglVbDrSs1tFizko
 
 ## Notebooks
-Contains notebooks for Dataviz (modified by Jeanette Valera from John Passarelli 2018), Github/Collab (modified by Emily Tan from Thomas Possidente 2018), Propensity Score Matching (modified by Andy Kong from Thomas Possidente 2018), Regression (Jeanette Valera and Andy Kong), Supervised Learning Models (modified by Emily Tan from John Passarelli 2018), Data Imputation (Andy Kong), and Case Studies (Jeanette Valera)
+Contains notebooks for Dataviz (modified by Jeanette Varela from John Passarelli 2018), Github/Collab (modified by Emily Tan from Thomas Possidente 2018), Propensity Score Matching (modified by Andy Kong from Thomas Possidente 2018), Regression (Jeanette Varela and Andy Kong), Supervised Learning Models (modified by Emily Tan from John Passarelli 2018), Data Imputation (Andy Kong), and Case Studies (Jeanette Varela)
 
 ## Challenge Problem
 Contains the Hepatitus B challenge notebook for the end of week 1.
-Created by Jeanette Valera
+Created by Jeanette Varela
