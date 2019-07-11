@@ -111,3 +111,8 @@ ggplot(df, aes(BMXBMI, col=as.factor(female), size=1)) +
   ) 
 
 ```
+
+```{r}
+pairs(mtcars)
+```
+
