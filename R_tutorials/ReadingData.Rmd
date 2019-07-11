@@ -54,6 +54,8 @@ Look at the data frame
 ## the type 
 class(df)
 ```
+
+
 Examine the data frame
 ```{r}
 # number of rows
@@ -199,7 +201,7 @@ sd (nh_df$BMXBMI, na.rm=TRUE) # standard deviation
 quantile (nh_df$BMXBMI, na.rm=TRUE)
 
 ## doing it across mulitple columns
-df %>%
+nh_df %>%
   summarize(mean_bmi = mean (BMXBMI, na.rm =TRUE),
             mean_age = mean (RIDAGEYR, na.rm=TRUE))
 ```
